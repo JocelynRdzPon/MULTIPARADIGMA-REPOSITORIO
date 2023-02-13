@@ -8,3 +8,5 @@
 4. Funciones
 5. Estructuras
 
+## SELECCION DE LOS VALORES DE LOS DATOS
+
