@@ -43,7 +43,7 @@ var= 10
 def Multiplicar(numero: int) ->int:
     return numero * 3
 
-print(Multiplicar:"5.8")
+print(Multiplicar("5.8"))
 
 def funcion(a,b,*args,**kwargs):
     print(a)
