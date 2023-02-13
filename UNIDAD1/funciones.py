@@ -75,4 +75,3 @@ def sumaMedia(a,b,c):
     media = suma/3
     return suma, media
 print(sumaMedia(1,2,3))
-sumaResult
