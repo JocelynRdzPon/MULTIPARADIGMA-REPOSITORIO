@@ -11,6 +11,8 @@ print(d1)
 
 ##CON SU CONSTRUCTOR
 
+##APARTADO DE 
+
 d2 = dict((("Nombre", "Rocio"), ("Edad", 24), ("documento", 2345)))
 print(d2)
 
