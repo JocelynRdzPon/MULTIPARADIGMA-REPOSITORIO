@@ -14,7 +14,8 @@
 ##SE ORDENAN LOS VALORES DEL SET
 # s={5,4,6,3,8,1}
 # print(s)
-#
+
+
 # #SET VACIO
 # s={0}
 
