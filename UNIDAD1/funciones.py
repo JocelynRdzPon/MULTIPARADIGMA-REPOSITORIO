@@ -5,17 +5,30 @@
 
 # print(suma(b=2, c=5, a=4))
 
-def suma(**kwargs):
- suma = 0
- for key , value in kwargs.items():
-    print(key, value)
-    suma += value
+# def suma(**kwargs):
+#  suma = 0
+#  for key , value in kwargs.items():
+#     print(key, value)
+#     suma += value
 # return suma, media, 10
 # print(sumaMedia(1,2,3))
 # SumaResultado, sumaResultadoMedia, s
 
 
-##
+##CLASE 12/FEB/2023
+
+##LAMBDAS
+"""
+se pueden definir como funciones ocultas, privadas
+
+"""
+lambda * n: print(sum(n)) (*list(range(0,101,1))) #Es una funcion para realizar procesos pero que se escriben en una sola linea de codigo
+
+"""
+Se pueden realizar funciones sin necesidad de ocupar mas de 3 renglones para su ejecucion
+"""
+"""
+"""
 
 def miFuncionSuma(a,b):
     """
@@ -23,8 +36,9 @@ def miFuncionSuma(a,b):
     """
     return a+b
 help(miFuncionSuma)
-print(miFuncionSuma:__doc__)
+# print(miFuncionSuma:__doc__)
 
+var= 10
 
 def Multiplicar(numero: int) ->int:
     return numero * 3
